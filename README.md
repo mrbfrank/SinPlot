@@ -7,3 +7,5 @@ SinPlot is a Java program that plots a sinusoidal function. The program draws Ca
 	javac SinPlot.java
 2. Run with:
 	java SinPlot
+
+![markdown preview](https://raw.github.com/mrbfrank/SinPlot/screenshot/SinPlot.png)
